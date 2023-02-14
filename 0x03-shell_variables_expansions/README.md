@@ -20,3 +20,5 @@ bal_variables
 | '5-local_variables' |  Lists all local variables and environment variables, and functions |
 
 | '6-create_local_variable' | Script that creates a new local variable |
+
+| '7-create_global_variable' | Script that creates a new global variable |
