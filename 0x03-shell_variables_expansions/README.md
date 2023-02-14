@@ -16,3 +16,5 @@ bal_variables
 | '3-paths' | Counts the number of directories in the PATH |
 
 | '4-global_variables' | Script that lists environment variables |
+
+| '5-local_variables' |  Lists all local variables and environment variables, and functions |
