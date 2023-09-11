@@ -1,3 +1,4 @@
+# Author - Khalifa Bako
 # Command_line_for_the_win
 ![the_bash_env](https://www.dataquest.io/wp-content/uploads/2019/07/command-line-courses-dataquest-1000x520-1-1.gif)
 
