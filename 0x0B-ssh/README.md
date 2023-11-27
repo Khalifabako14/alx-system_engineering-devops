@@ -1,3 +1,4 @@
+# Author - Khalifa Bako
 # SSH
 
 In this project, I became familiar connecting to and working
