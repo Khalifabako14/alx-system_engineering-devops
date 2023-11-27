@@ -1,3 +1,4 @@
+# Author - Khalifa Bako
 # Configuration management
 
 In this project, I started working with Puppet as a configuration management
